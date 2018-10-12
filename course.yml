@@ -17,33 +17,26 @@ chunks:
         # みなさんこんにちは
         日本語の勉強をはじめましょう
 
-        コース（flowのサンプルです） [linear algebra recap](flow:001-linalg-recap)
+        ##コース（flowのサンプルです） [linear algebra recap](flow:001-linalg-recap)
 
-        ボタンの例
+        ##ボタンの例
         <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
 
-        クイズの例 [sample quiz](flow:quiz-test).
+        ##クイズの例 [sample quiz](flow:quiz-test).
 
-        PDFの埋め込み例 [PDF](repocur:pdfs/sample.pdf).
+        ##PDFの埋め込み例 [PDF](repocur:pdfs/sample.pdf).
 
-        静的コンテンツの例 [static (i.e.
+        ##静的コンテンツの例 [static (i.e.
         non-interactive) pages](staticpage:test).
 
-        画像表示の例
+        ##画像表示の例
         
         <img src="repo:images/classroom.jpeg">
 
         (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
 
-        <div class="well" markdown="1">
-          *RELATE* <i class="fa fa-heart"></i>
-          <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
-
-          (Note that all of this is sample content. RELATE does not clutter
-          your course page with information about itself.)
-        </div>
         
-        ビデオ
+        ##ビデオ
         
         <video id="myvideo" class="video-js vjs-default-skin"
            controls preload="auto" width="800" height="600"
@@ -54,8 +47,16 @@ chunks:
         </video>
 
 
-        みんなでトゥアン君と一緒に発音の練習をしましょう。
-        https://peace-growba.co.jp/share/speech_04_tuan_02_sample.html
+        ##みんなでトゥアン君と一緒に発音の練習をしましょう。
+        <a href="https://peace-growba.co.jp/share/speech_04_tuan_02_sample.html">https://peace-growba.co.jp/share/speech_04_tuan_02_sample.html</a>
+        <div class="well" markdown="1">
+          *RELATE* <i class="fa fa-heart"></i>
+          <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
+
+          (Note that all of this is sample content. RELATE does not clutter
+          your course page with information about itself.)
+        </div>
+
 -
     title: "Exam pointer"
 
