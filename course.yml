@@ -1,7 +1,7 @@
 chunks:
 
 -
-    title: "Welcome to the sample course"
+    title: "TIJ東京日本語研修所　RELATE評価用"
     id: welcome
     rules:
     -
@@ -14,27 +14,26 @@ chunks:
 
     content: |
 
-        # Hi there!
-        日本語大丈夫だよね？
+        # みなさんこんにちは
+        日本語の勉強をはじめましょう
 
         みんなでトゥアン君と一緒に発音の練習をしましょう。
+
         https://peace-growba.co.jp/share/speech_04_tuan_02_sample.html
 
-        Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
+        コース（flowのサンプルです） [linear algebra recap](flow:001-linalg-recap)
 
-        You can also go there using a
+        ボタンの例
         <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
 
-        You can also jump directly to the [sample quiz](flow:quiz-test).
+        クイズの例 [sample quiz](flow:quiz-test).
 
-        Look at the amazing embedded [PDF](repocur:pdfs/sample.pdf).
+        PDFの埋め込み例 [PDF](repocur:pdfs/sample.pdf).
 
-        In addition to interactive content, RELATE also supports [static (i.e.
+        静的コンテンツの例 [static (i.e.
         non-interactive) pages](staticpage:test).
 
-        Remember, this image shows the model that RELATE is trying to put out
-        of business:
-
+        画像表示の例
         <img src="repo:images/classroom.jpeg">
 
         (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
