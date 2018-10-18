@@ -90,17 +90,17 @@ groups:
         shuffle: False
         prompt: |
 
-            # Ice Cream Toppings
+            # もんだい３
 
-            Which of the following are ice cream toppings?
+            台風が来たらどうなりますか？
 
         choices:
 
-          - ~CORRECT~ Sprinkles
-          - ~CORRECT~ Chocolate chunks
-          - Vacuum cleaner dust
-          - Spider webs
-          - ~CORRECT~ Almond bits
+          - ~CORRECT~ 塗れます
+          - ~CORRECT~ 風が強くなります
+          - 晴れました
+          - 雨の心配はないです
+          - ~CORRECT~ 電車が遅れる場合があります
 
     -
         {{ indented_include("questions/matrix-properties.yml", 8) }}
