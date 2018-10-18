@@ -111,9 +111,9 @@ groups:
         widget: textarea
         prompt: |
 
-            # Psychology Survey
+            # 文章もんだい
 
-            What's your biggest fear?
+            あなたの趣味を書いてください
 
     -
         {{ indented_include("questions/survey-age-question.yml", 8) }}
