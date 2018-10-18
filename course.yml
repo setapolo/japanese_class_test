@@ -15,7 +15,7 @@ chunks:
     content: |
 
 
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default alert-success">
           <div class="container-fluid">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
@@ -23,10 +23,11 @@ chunks:
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">JLPT N5完全復習</a>
+              <a class="navbar-brand" href="#">JLPT N5完全復習コース</a>
             </div>
           </div>
         </nav>
+
 
         ### 
 
@@ -38,27 +39,33 @@ chunks:
         <div class="list-group">
           <a href="flow:001-hiragana" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1">ひらがなの勉強</h5>
-              <small>基礎</small>
+              <h4 class="mb-1">ひらがなの勉強   <span class="badge badge-primary">基礎</span></h4>
             </div>
-            <p class="mb-1">ひらがなひらがなひらがなひらがな</p>
-            <small>スモールスモールスモール</small>
+            <small>想定時間</small>
+            <p class="mb-1">ひらがなの勉強をしましょう</p>
+            <button type="button" class="btn btn-primary">
+              受講する 
+            </button>
           </a>
           <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1">List group item heading</h5>
-              <small class="text-muted">3 days ago</small>
+              <h4 class="mb-1">ひらがなの勉強   <span class="badge badge-primary">基礎</span></h4>
             </div>
-            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-            <small class="text-muted">Donec id elit non mi porta.</small>
+            <small>想定時間</small>
+            <p class="mb-1">ひらがなの勉強をしましょう</p>
+            <button type="button" class="btn btn-primary">
+              受講する 
+            </button>
           </a>
           <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1">List group item heading</h5>
-              <small class="text-muted">3 days ago</small>
+              <h4 class="mb-1">ひらがなの勉強   <span class="badge badge-primary">基礎</span></h4>
             </div>
-            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-            <small class="text-muted">Donec id elit non mi porta.</small>
+            <small>想定時間</small>
+            <p class="mb-1">ひらがなの勉強をしましょう</p>
+            <button type="button" class="btn btn-primary">
+              受講する 
+            </button>
           </a>
         </div>
 
