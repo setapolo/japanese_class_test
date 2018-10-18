@@ -103,9 +103,6 @@ groups:
           - ~CORRECT~ 電車が遅れる場合があります
 
     -
-        {{ indented_include("questions/matrix-properties.yml", 8) }}
-
-    -
         {{ indented_include("questions/multi-question-example_02.yml", 8) }}
 
     -

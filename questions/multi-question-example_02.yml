@@ -9,11 +9,11 @@ prompt: |
 
 question: |
 
-    まず [[blank1]] がしっかり表示されるか確認んをして
+    まず [[blank1]] がしっかり表示されるか確認をして
     その後、 $\frac{1}{5}$ が [[blank_2]]　と等しいことを確認する.
 
-    The correct answer for this choice question is [[choice_a]].
-    The Upper case of "foo" is [[choice2]].
+    正しい答えはいつも [[choice_a]].
+    明日晴れたら釣りに [[choice2]].
 
     One dollar is [[blank3]], and five percent is [[blank4]], and "Bar"
     wrapped by a pair of parentheses is [[blank5]].
@@ -45,15 +45,16 @@ answers:
         type: ChoicesAnswer
         required: True
         choices:
-        - ~CORRECT~ Correct
-        - Wrong
+        - ~CORRECT~ 他にある
+        - ここにはない
+        - 場合によってない
 
     choice2:
         type: ChoicesAnswer
         choices:
-        - ~CORRECT~ FOO
-        - BAR
-        - fOO
+        - ~CORRECT~ 行きましょう
+        - 返りましょう
+        - ください
 
     blank3:
         type: ShortAnswer
