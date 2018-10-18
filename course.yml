@@ -16,17 +16,15 @@ chunks:
 
         # みなさんこんにちは
         日本語の勉強をはじめましょう
-        {% from "macros.jinja" import youtube %}
-        {{ youtube("6p9Il_j0zjc") }}
-        {{ youtube("s6DKRgtVLGA") }}
-        {{ youtube("VlfhXyaGUvo") }}
 
         ### コース（flowのサンプルです） 
-        [linear algebra recap](flow:001-linalg-recap)
+        <a href="flow:001-hiragana" role="button" class="btn btn-default">ひらがなの勉強</a>.
         [ひらがなの勉強](flow:001-hiragana)
 
+
+        [linear algebra recap](flow:001-linalg-recap)
+
         ### ボタンの例
-        <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
 
         ### クイズの例 
         [sample quiz](flow:quiz-test).
