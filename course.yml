@@ -15,7 +15,7 @@ chunks:
     content: |
 
         # みなさんこんにちは
-        日本語の勉強をはじめましょう
+        日本語の勉強をはじめましょう.
 
         ### 
         <a href="flow:001-hiragana" role="button" class="btn btn-default">ひらがなの勉強</a>
