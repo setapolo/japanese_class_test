@@ -23,6 +23,7 @@ chunks:
 
         ### コース（flowのサンプルです） 
         [linear algebra recap](flow:001-linalg-recap)
+        [ひらがなの勉強](flow:001-hiragana)
 
         ### ボタンの例
         <a href="flow:001-linalg-recap" role="button" class="btn btn-default">Bootstrap button</a>.
