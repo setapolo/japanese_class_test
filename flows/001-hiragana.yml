@@ -1,6 +1,6 @@
-title: "Linear Algebra"
+title: "ひらがなの勉強"
 description: |
-    # Linear Algebra Recap
+    # ひらがなの勉強
 
 rules:
     access:
@@ -19,7 +19,7 @@ pages:
 
         # A little distraction to start
 
-        Yadda yadda.
+        ひらがなの勉強をしよう
 
         {% from "macros.jinja" import youtube %}
         {{ youtube("6p9Il_j0zjc") }}
