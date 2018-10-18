@@ -16,6 +16,10 @@ chunks:
 
         # みなさんこんにちは
         日本語の勉強をはじめましょう
+        {% from "macros.jinja" import youtube %}
+        {{ youtube("6p9Il_j0zjc") }}
+        {{ youtube("s6DKRgtVLGA") }}
+        {{ youtube("VlfhXyaGUvo") }}
 
         ### コース（flowのサンプルです） 
         [linear algebra recap](flow:001-linalg-recap)
