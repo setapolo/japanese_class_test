@@ -17,15 +17,15 @@ pages:
     id: intro
     content: |
 
-        # A little distraction to start
+        # ひらがなの勉強をしよう
 
         ひらがなの勉強をしよう
 
         {% from "macros.jinja" import youtube %}
         {{ youtube("6p9Il_j0zjc") }}
-        {{ youtube("s6DKRgtVLGA") }}
-        {{ youtube("VlfhXyaGUvo") }}
-
+        {{ youtube("VOVT4Pm_vyc") }}
+https://www.youtube.com/watch?v=6p9Il_j0zjc&t=1269s
+https://www.youtube.com/watch?v=VOVT4Pm_vyc&list=PLCJy4vvS5OFLrAf_2nznM8de_bb0AWp-d
 -
     type: Page
     id: vectors
