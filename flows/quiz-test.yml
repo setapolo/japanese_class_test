@@ -76,7 +76,7 @@ groups:
 
         answers:
 
-          - type: text
+          - type: String
             value: 私
           - <plain>私
           - <plain>私
