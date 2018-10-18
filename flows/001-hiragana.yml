@@ -20,9 +20,9 @@ pages:
         # ひらがなの勉強をしよう
 
         ひらがなの勉強をしよう
-        {% from "macros.jinja" import youtube2 %}
-        {{ youtube2("v=6p9Il_j0zjc&t=1269s") }}
-        {{ youtube2("v=VOVT4Pm_vyc&list=PLCJy4vvS5OFLrAf_2nznM8de_bb0AWp-d") }}
+        {% from "macros.jinja" import youtube %}
+        {{ youtube("6p9Il_j0zjc&start=1269s") }}
+        {{ youtube("VOVT4Pm_vyc&list=PLCJy4vvS5OFLrAf_2nznM8de_bb0AWp-d") }}
 -
     type: Page
     id: vectors
