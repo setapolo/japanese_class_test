@@ -21,8 +21,8 @@ pages:
 
         ひらがなの勉強をしよう
         {% from "macros.jinja" import youtube %}
-        {{ youtube("6p9Il_j0zjc&start=1269s") }}
-        {{ youtube("VOVT4Pm_vyc&list=PLCJy4vvS5OFLrAf_2nznM8de_bb0AWp-d") }}
+        {{ youtube("6p9Il_j0zjc?start=1269") }}
+        {{ youtube("VOVT4Pm_vyc") }}
 -
     type: Page
     id: vectors
