@@ -3,13 +3,13 @@ id: krylov
 value: 2
 prompt: |
 
-    # Krylov-space methods
+    # もんだい２
 
-    What form of a matrix is produced by Arnoldi iteration?
+    雨が降ったらどうなりますか？
 
 choices:
 
-  - ~CORRECT~ Upper Hessenberg form
-  - Diagonal
-  - Schur form
-  - Tridiagonal form
+  - ~CORRECT~ 濡れます
+  - 塗れます
+  - 乗れます
+  - 傘がなくなりました
