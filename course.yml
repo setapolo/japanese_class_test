@@ -25,98 +25,31 @@ chunks:
         ### 確認問題にチャレンジ
         [確認問題](flow:quiz-test).
 
-<div class="container p-t-3">
-    <div class="row">
-        <div class="col-lg-6">
-            <hr>
-            <div class="card card-default">
-                <div class="container-fluid">
-                    <div class="row flex-items-xs-middle">
-                        <div class="col-md-6 bg-success text-xs-center p-a-0">
-                            <div class="p-y-3">
-                                <h1 class="p-y-2"><i class="fa fa-2x fa-tree"></i></h1>
-                            </div>
-                        </div>
-                        <div class="col-md-6 p-y-2">
-                            <h3 class="card-title">Card</h3>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-outline-secondary btn-block">Outline</a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <hr>
-
-            <div class="card card-default" id="card_list">
-                <div class="list-group">
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Grapes</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text"><span class="pull-xs-right"><i class="ion-ios-star-outline"></i></span>Milk</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text"><i class="fa fa-heart-o pull-xs-right"></i> Apple Chips</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Fried Dough</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Salad</p>
-                    </a>
-                    <div href="#" class="list-group-item">
-                        <button class="btn btn-primary btn-lg btn-block">Read More</button>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <div class="col-lg-6">
-            <hr>
-            <div class="card card-default">
-                <div class="list-group">
-                    <div href="#" class="list-group-item">
-                        <div class="col-md-6 bg-success text-xs-center p-a-0">
-                            <div class="p-y-3">
-                                <h1 class="p-y-2"><i class="fa fa-2x fa-tree"></i></h1>
-                            </div>
-                        </div>
-                        <div class="col-md-6 p-y-2">
-                            <h3 class="card-title">Card</h3>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                            <a href="#" class="btn btn-outline-secondary btn-block">Outline</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card card-default" id="card_list">
-                <div class="list-group">
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Grapes</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text"><span class="pull-xs-right"><i class="ion-ios-star-outline"></i></span>Milk</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text"><i class="fa fa-heart-o pull-xs-right"></i> Apple Chips</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Fried Dough</p>
-                    </a>
-                    <a href="#" class="list-group-item">
-                        <p class="list-group-item-text">Salad</p>
-                    </a>
-                    <div href="#" class="list-group-item">
-                      てｓｔ
-                      <button class="btn btn-primary btn-lg btn-block">Read More</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">List group item heading</h5>
+      <small>3 days ago</small>
     </div>
+    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+    <small>Donec id elit non mi porta.</small>
+  </a>
+  <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">List group item heading</h5>
+      <small class="text-muted">3 days ago</small>
+    </div>
+    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+    <small class="text-muted">Donec id elit non mi porta.</small>
+  </a>
+  <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">List group item heading</h5>
+      <small class="text-muted">3 days ago</small>
+    </div>
+    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+    <small class="text-muted">Donec id elit non mi porta.</small>
+  </a>
 </div>
 
 -
