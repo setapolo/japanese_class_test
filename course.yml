@@ -23,18 +23,12 @@ chunks:
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Bootstrapサンプル</a>
+              <a class="navbar-brand" href="#">JLPT N5完全復習</a>
             </div>
           </div>
         </nav>
 
-        # みなさんこんにちは
-        日本語の勉強をはじめましょう.
-
         ### 
-        <a href="flow:001-hiragana" role="button" class="btn btn-default">ひらがなの勉強</a>
-
-        [ひらがなの勉強](flow:001-hiragana)
 
         ### 確認問題にチャレンジ
         [確認問題](flow:quiz-test).
@@ -47,6 +41,9 @@ chunks:
             </div>
             <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
             <small>Donec id elit non mi porta.</small>
+            <a href="flow:001-hiragana" role="button" class="btn btn-default">ひらがなの勉強</a>
+           [ひらがなの勉強](flow:001-hiragana)
+
           </a>
           <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
