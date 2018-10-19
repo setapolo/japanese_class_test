@@ -18,23 +18,11 @@ chunks:
         <nav class="navbar navbar-default alert-success">
           <div class="container-fluid">
             <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
               <a class="navbar-brand" href="#">JLPT N5完全復習コース</a>
             </div>
           </div>
         </nav>
 
-
-        ### 
-
-        ### 確認問題にチャレンジ
-        [確認問題](flow:quiz-test).
-            <a href="flow:001-hiragana" role="button" class="btn btn-default">ひらがなの勉強</a>
-           [ひらがなの勉強](flow:001-hiragana)
 
         <div class="list-group">
           <a href="flow:001-hiragana" class="list-group-item list-group-item-action flex-column align-items-start">
@@ -47,12 +35,12 @@ chunks:
               受講する 
             </button>
           </a>
-          <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+          <a href="flow:quiz-test" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
-              <h4 class="mb-1">ひらがなの勉強   <span class="badge badge-primary">基礎</span></h4>
+              <h4 class="mb-1">確認問題にチャレンジ   <span class="badge badge-primary">テスト</span></h4>
             </div>
             <small>想定時間</small>
-            <p class="mb-1">ひらがなの勉強をしましょう</p>
+            <p class="mb-1">JLPT　N5の問題です</p>
             <button type="button" class="btn btn-primary">
               受講する 
             </button>
