@@ -22,8 +22,7 @@ chunks:
             </div>
           </div>
         </nav>
-
-
+        <small>聞くは一時の恥、聞かぬは一生の恥(Better to ask the way than to go astray.)</small>
         <div class="list-group">
           <a href="flow:001-hiragana" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
@@ -47,10 +46,10 @@ chunks:
           </a>
           <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
             <div class="d-flex w-100 justify-content-between">
-              <h4 class="mb-1">ひらがなの勉強   <span class="badge badge-primary">基礎</span></h4>
+              <h4 class="mb-1">発音の練習   <span class="badge badge-primary">応用</span></h4>
             </div>
             <small>想定時間</small>
-            <p class="mb-1">ひらがなの勉強をしましょう</p>
+            <p class="mb-1">発音の練習をしましょう</p>
             <button type="button" class="btn btn-primary">
               受講する 
             </button>
